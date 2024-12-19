@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-##Welcome to my profile! I am a Frontend & Backend Developer. And I am also a Blockchain Engineer.
+<h5>Welcome to my profile!</h5>
+
+I am a Freelance Frontend & Backend Developer. And I am also a Blockchain Engineer.
 
 For over five years, I’ve been immersed in the dynamic world of web development, building everything from sleek, interactive user interfaces to powerful backend systems. What started as a simple fascination with how websites worked has grown into a passion for creating innovative digital experiences that solve real-world problems.
 
@@ -202,8 +204,7 @@ Now, I’m here to bring that same energy, expertise, and dedication to your pro
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/k02-dev/count.svg)
 
-<br/><br/><hr/><br/>
-
+<br/><hr/><br/>
 
 <h2 align="center">🏆 Leetcode Badges 🏆</h2>
 <br/>
