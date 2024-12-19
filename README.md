@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<h5>Welcome to my profile!</h5>
+<h4>Welcome to my profile!</h4>
 
 I am a Freelance Frontend & Backend Developer. And I am also a Blockchain Engineer.
 
@@ -27,6 +27,7 @@ Now, I’m here to bring that same energy, expertise, and dedication to your pro
 - 🌐 Website: **https://k02dev.com**
 - ⚡ Fun fact: **I am waiting for you!**
 
+## Skills I have:
 
 <br/>
 
