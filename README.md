@@ -206,57 +206,11 @@ Now, I’m here to bring that same energy, expertise, and dedication to your pro
  </tr>
 </table>
 
-[...Others](https://github.com/blockchainguard?tab=repositories)
-
-### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=blockchainguard&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
-
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/blockchainguard/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/k02-dev/count.svg)
 
 <br/><br/><hr/><br/>
 
-<div align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>
-
-<br />
-
-<div align="center">
-   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=Dev-SalamSheikh&style=flat-square" alt="NazmusSayad" />
-   </a>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-SalamSheikh&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/overviewDarkMode.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/actions_branch/generated_images/languagesDarkMode.svg" />
-  </a>
-</p>
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
-</div>
 
 <h2 align="center">🏆 Leetcode Badges 🏆</h2>
 <br/>
@@ -268,33 +222,3 @@ Now, I’m here to bring that same energy, expertise, and dedication to your pro
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
 </div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-sire/dev-sire/output/github-contribution-grid-snake-dark.svg" />
-  
-<br/>
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sire&theme=react" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sire&theme=react" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sire&theme=react" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sire&theme=react&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="quote" />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=dev-sire&icon=0&color=0)](https://visitcount.itsvg.in)
-<br />
-
-
