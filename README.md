@@ -250,81 +250,51 @@ Now, I’m here to bring that same energy, expertise, and dedication to your pro
   </a>
 </p>
 
-<br/><br/>
 
-## Projects:
-
-- **[Personal-Github-Overview](https://github.com/Dev-SalamSheikh/personal-githuboverview.git)** - Personal App for overview on gihtub
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-
-## Social Media's:
-
-<p>
-<a href="https://twitter.com/ambivert_person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambivert_person" height="40" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-salamsheikh" height="40" width="50" /></a>
-<a href="https://fb.com/reyad.ambivert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reyad.ambivert" height="40" width="50" /></a>
-<a href="https://instagram.com/dev_salamsheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_salamsheikh" height="40" width="50" /></a>
-<a href="https://www.behance.net/salam-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="salam-sheikh" height="40" width="50" /></a>
-</p>
-
-<br/><br/>
-
-##
-
-<br/>
-
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github.com/Dev-SalamSheikh/Git-Stats/raw/master/github-metrics.svg" />
-  </a>
-</p>
-
-<br />
-<br />
-
-##
-
-<br />
-<br />
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dev-SalamSheikh&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-  </a>
-</p>
-
-
-
-#
-
-<br/>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Dev-SalamSheikh">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
-  </a>
-</p>
-
-<br />
-
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
+<h2 align="center">🏆 Leetcode Badges 🏆</h2>
+<br/>
+<div align="center">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-sire/dev-sire/output/github-contribution-grid-snake-dark.svg" />
+  
+<br/>
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<br/>
+
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sire&theme=react" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-sire&theme=react" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-sire&theme=react" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-sire&theme=react" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sire&theme=react&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="quote" />
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=dev-sire&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
 
-<div>
-  <a href="#">
-    <img width="100%" src="/assets/footer-banner.svg" />
-  </a>
-</div>
