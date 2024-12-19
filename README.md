@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-**K02-dev/K02-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a freelance developer.
+- 🌱 I’m currently looking for new challenges.
+- 👯 I’m looking to collaborate on some job platforms.
+- 💬 Ask me about anything you want to know.
+- 📧 Mail: **k02dev123@gmail.com**
+- 🌐 Website: **https://k02dev.com**
+- ⚡ Fun fact: **I am waiting for you!**
 
 <h1 align="center"><b>Top Rated Frontend & Backend Developer | Blockchain Engineer</b><br /></h1>
 
@@ -34,9 +31,7 @@ Looking back, I’m proud of what I’ve built: over 50 web applications, rangin
 Now, I’m here to bring that same energy, expertise, and dedication to your project. Whether you need a sleek UI, a robust backend, or a complete solution from scratch, I’m ready to help turn your vision into reality. Let’s build something amazing together!
 
 
-- 📧 Mail: **kdev123@gmail.com**
-- 🌐 Website: **https://kdev.com**
-- ⚡ Fun fact: **I am waiting for you!**
+
 
 <br/>
 
