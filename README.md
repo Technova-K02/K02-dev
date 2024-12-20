@@ -1,10 +1,10 @@
-<h1 align="center"><b>Top Rated Frontend & Backend Developer | Blockchain Engineer</b><br /></h1>
+<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer</b><br /></h1>
 
-## Hi there 👋
+## Hello everyone 👋
 
 <h4>Welcome to my profile!</h4>
 
-I am a Freelance Frontend & Backend Developer and Blockchain Engineer with over five years of experience building sleek user interfaces and powerful backend systems. I specialize in crafting responsive, intuitive UIs using React.js, Vue.js, and Angular, and creating efficient backend architectures with Node.js, Django, and Laravel. I've worked with PostgreSQL, MySQL, and MongoDB to build secure, scalable systems.
+I am a Freelance Full Stack Developer and AI/ML Engineer with over five years of experience building sleek user interfaces and powerful backend systems. I specialize in crafting responsive, intuitive UIs using React.js, Vue.js, and Angular, and creating efficient backend architectures with Node.js, Django, and Laravel. I've worked with PostgreSQL, MySQL, and MongoDB to build secure, scalable systems.
 
 My work has helped e-commerce businesses cut costs, fintech companies boost engagement, and SaaS platforms improve performance. I thrive on solving complex challenges, staying ahead with tools like Docker, Kubernetes, and AWS. With over 50 projects completed, I’m ready to bring your vision to life with dedication and expertise.
 
@@ -70,7 +70,7 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     <td align="center" width="115" height="115">
         <a href="https://www.w3schools.com/gen_ai/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/generative%20ai%20logo.png" width="70" height="70" alt="Generative AI" />
-            <br>
+            <br>Generative AI
         </a>
     </td>
   </tr>
@@ -130,6 +130,62 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
         </a>
     </td>
  </tr>
+  <tr>
+    <td align="center" width="115" height="115">
+        <a href="https://github.com/mlabonne/llm-course">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/llm-logo.jfif" width="70" height="70" alt="LLM" />
+            <br>LLM
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/nlp-logo.jpg" width="70" height="70" alt="NLP" />
+            <br>NLP
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://fastapi.tiangolo.com/tutorial/">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI" />
+            <br>FastAPI
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.w3schools.com/python/numpy/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="70" height="70" />
+            <br>Numpy
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.w3schools.com/python/pandas/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="70" height="70" />
+            <br>Pandas
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.w3schools.com/python/scipy/index.php">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="70" height="70" alt="Scipy" />
+            <br>Scipy
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.w3schools.com/datascience/default.asp">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/data%20science-logo.png" width="70" height="70" alt="Data Science" />
+            <br>Data Science
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.geeksforgeeks.org/selenium-python-tutorial/">
+            <img src="https://skillicons.dev/icons?i=selenium" width="70" height="70" alt="Selenium" />
+            <br>Selenium
+        </a>
+    </td>
+    <td align="center" width="115" height="115">
+        <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/bs-logo.png" width="70" height="70" alt="Beautiful Soup" />
+            <br>Beautiful Soup
+        </a>
+    </td>
+  </tr>
  <tr>
     <td align="center" width="115" height="115">
         <a href="https://www.geeksforgeeks.org/nextjs/">
@@ -181,7 +237,7 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     </td>
     <td align="center" width="115" height="115"> 
         <a href="https://www.w3schools.com/git/default.asp">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="70" height="70" alt="Git" />
             <br>Git
         </a>
     </td>
