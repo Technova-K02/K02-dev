@@ -1,4 +1,4 @@
-<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer</b><br /></h1>
+<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer | BOT & Scraping Expert</b><br /></h1>
 
 ## Hello everyone 👋
 
@@ -6,11 +6,11 @@
 
 I am a Freelance Full Stack Developer and AI/ML Engineer with over five years of experience building sleek user interfaces and powerful backend systems. I specialize in crafting responsive, intuitive UIs using React.js, Vue.js, and Angular, and creating efficient backend architectures with Node.js, Django, and Laravel. I've worked with PostgreSQL, MySQL, and MongoDB to build secure, scalable systems.
 
+And I am also a BOT & Scraping Expert
+
 My work has helped e-commerce businesses cut costs, fintech companies boost engagement, and SaaS platforms improve performance. I thrive on solving complex challenges, staying ahead with tools like Docker, Kubernetes, and AWS. With over 50 projects completed, I’m ready to bring your vision to life with dedication and expertise.
 
 
-- 📧 Mail: **k02dev123@gmail.com**
-- 🌐 Website: **https://k02dev.com**
 - ⚡ Fun fact: **I am waiting for you!**
 
 ## Skills I have:
