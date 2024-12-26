@@ -22,55 +22,46 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/python/">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-            <br>Python
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/flask-tutorial/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
-            <br>Flask
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/django/index.php">
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-            <br>Django
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
-            <br>LangChain
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/computer-vision/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/cv-logo.png" width="65" height="65" alt="OpenCV" />
-            <br>OpenCV
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.tensorflow.org/tutorials">
             <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-            <br>Tensorflow
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://pytorch.org/tutorials/">
             <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
-            <br>Pytorch
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/chatgpt-logo.png" width="65" height="65" alt="ChatGPT" />
-            <br>ChatGPT
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/gen_ai/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/generative%20ai%20logo.png" width="65" height="65" alt="Generative AI" />
-            <br>Generative AI
         </a>
     </td>
   </tr>
