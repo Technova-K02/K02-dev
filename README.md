@@ -116,55 +116,46 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     <td align="center" width="80" height="80">
         <a href="https://github.com/mlabonne/llm-course">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/llm-logo.jfif" width="65"  alt="LLM" />
-            <br>LLM
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/nlp-logo.jpg" width="65"  alt="NLP" />
-            <br>NLP
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://fastapi.tiangolo.com/tutorial/">
             <img src="https://skillicons.dev/icons?i=fastapi" width="65"  alt="FastAPI" />
-            <br>FastAPI
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65"  />
-            <br>Numpy
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/python/pandas/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="65"  />
-            <br>Pandas
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/python/scipy/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="65"  alt="Scipy" />
-            <br>Scipy
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/datascience/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/data%20science-logo.png" width="65"  alt="Data Science" />
-            <br>Data Science
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/selenium-python-tutorial/">
             <img src="https://skillicons.dev/icons?i=selenium" width="65"  alt="Selenium" />
-            <br>Selenium
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/bs-logo.png" width="65"  alt="Beautiful Soup" />
-            <br>Beautiful Soup
         </a>
     </td>
   </tr>
@@ -172,55 +163,46 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/nextjs/">
             <img src="https://skillicons.dev/icons?i=nextjs" width="65"  alt="NextJS" />
-            <br>NextJS
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/mysql/default.asp">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65"  />
-            <br>MySQL
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/aws/index.php">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65"  />
-            <br>AWS
         </a>
     </td>
     <td align="center"  width="80" height="80">
         <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp">
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-            <br>Bootstrap
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/tailwind-css/">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-            <br>Tailwind
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/postgresql/index.php">
             <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-            <br>PostgreSQL
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/jquery/default.asp">
             <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-            <br>jQuery
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65"  />
-            <br>Github
         </a>
     </td>
     <td align="center" width="80" height="80"> 
         <a href="https://www.w3schools.com/git/default.asp">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65"  alt="Git" />
-            <br>Git
         </a>
     </td>
  </tr>
