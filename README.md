@@ -69,55 +69,46 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
     <td align="center" width="80" height="80">
         <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
-            <br>Scrapy
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://scikit-learn.org/stable/tutorial/index.html">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scikitlearn.png" alt="Scikit" width="65" height="65" />
-            <br>Scikit
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/docker-tutorial/">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-            <br>Docker
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/js/default.asp">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>JavaScript
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/typescript/index.php">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-            <br>TypeScript
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/react/default.asp">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-            <br>React
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/nodejs/default.asp">
             <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-            <br>NodeJS
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.w3schools.com/mongodb/index.php">
             <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-            <br>MongoDB
         </a>
     </td>
     <td align="center" width="80" height="80">
         <a href="https://www.geeksforgeeks.org/express-js/">
             <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-            <br>Express
         </a>
     </td>
  </tr>
