@@ -1,4 +1,4 @@
-<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer | BOT & Scraping Expert</b><br /></h1>
+<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer | Scraping & Automation Expert</b><br /></h1>
 
 ## Hello everyone 👋
 
