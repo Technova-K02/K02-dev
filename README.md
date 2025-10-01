@@ -1,17 +1,24 @@
-<h1 align="center"><b>Top Rated Full Stack Developer | AI/ML Engineer | Scraping & Automation Expert</b><br /></h1>
+<h1 align="center"><b> ✔Top Rated✔ Full Stack Developer | AI/ML Engineer </b><br /></h1>
 
 ## Hello everyone 👋
 
 <h4>Welcome to my profile!</h4>
 
-I am a Freelance Full Stack Developer and AI/ML Engineer with over five years of experience building sleek user interfaces and powerful backend systems. I specialize in crafting responsive, intuitive UIs using React.js, Vue.js, and Angular, and creating efficient backend architectures with Node.js, Django, and Laravel. I've worked with PostgreSQL, MySQL, and MongoDB to build secure, scalable systems.
-
-And I am also a BOT & Scraping Expert
-
-My work has helped e-commerce businesses cut costs, fintech companies boost engagement, and SaaS platforms improve performance. I thrive on solving complex challenges, staying ahead with tools like Docker, Kubernetes, and AWS. With over 50 projects completed, I’m ready to bring your vision to life with dedication and expertise.
+• Results-driven Full Stack and AI/ML Engineer with 9+ years of experience in delivering SOTA machine learning and deep learning solutions. Expert in deploying advanced AI technologies like OpenAI GPT and Llama, specializing in large language models, chatbot development, and NLP applications. Proven ability in data science and engineering, adept with tools like Apache Spark and Tableau for data integration and visualization.
+• Proficient in multiple programming languages, including Python and Java, and experienced in Full-Stack development using Node, Laravel, Spring Boot and Django for Backend and React, JavaScript and TypeScript for Frontend. Skilled in cloud platforms AWS and GCP, and deploying robust solutions with Docker and Kubernetes. Excel in building innovative recommendation systems and performing sentiment analysis, leveraging both SQL and NoSQL databases.
+• Passionate about driving technology innovation and delivering impactful, scalable solutions. Recognized for strong problem-solving skills and strategic technology application to enhance performance and user experience
 
 
-- ⚡ Fun fact: **I am waiting for you!**
+## Areas of Expertise
+
+• Machine Learning & Deep Learning
+• Data Science & Engineering
+• Programming & Development
+• Cloud Computing & Deployment
+• Big Data Technologies
+• Database Management
+• Business Intelligence & Visualization
+• Innovative Problem-Solving
 
 ## Skills I have:
 
@@ -208,18 +215,4 @@ My work has helped e-commerce businesses cut costs, fintech companies boost enga
  </tr>
 </table>
 
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/k02-dev/count.svg)
-
 <br/><hr/><br/>
-
-<h2 align="center">🏆 Leetcode Badges 🏆</h2>
-<br/>
-<div align="center">
-    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 20px;">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60px" style="margin-right: 20px;">
-</div>
