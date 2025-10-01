@@ -219,3 +219,7 @@
 </table>
 
 <br/><hr/><br/>
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Technova-K02&show_icons=true&theme=radical)
+
