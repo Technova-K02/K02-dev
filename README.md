@@ -4,12 +4,17 @@
 
 <h4>Welcome to my profile!</h4>
 
-• Results-driven Full Stack and AI/ML Engineer with 9+ years of experience in delivering SOTA machine learning and deep learning solutions. Expert in deploying advanced AI technologies like OpenAI GPT and Llama, specializing in large language models, chatbot development, and NLP applications. Proven ability in data science and engineering, adept with tools like Apache Spark and Tableau for data integration and visualization.
+•	Experienced Full Stack and AI/ML Engineer with 8+ years delivering cutting-edge solutions in machine learning, deep learning, and NLP. 
 <br/>
-• Proficient in multiple programming languages, including Python and Java, and experienced in Full-Stack development using Node, Laravel, Spring Boot and Django for Backend and React, JavaScript and TypeScript for Frontend. Skilled in cloud platforms AWS and GCP, and deploying robust solutions with Docker and Kubernetes. Excel in building innovative recommendation systems and performing sentiment analysis, leveraging both SQL and NoSQL databases.
+•	Specialized in large language models (GPT, Llama), chatbot development, and data-driven applications. 
 <br/>
-• Passionate about driving technology innovation and delivering impactful, scalable solutions. Recognized for strong problem-solving skills and strategic technology application to enhance performance and user experience
+•	Proficient in Python, Java, and full-stack frameworks (Node, Django, Spring Boot, React), with expertise in cloud platforms (AWS, GCP), containerization (Docker, Kubernetes), and data tools (Apache Spark, Tableau). 
 <br/>
+•	Known for building scalable systems, recommendation engines, and sentiment analysis pipelines using SQL/NoSQL. 
+<br/>
+•	Driven by innovation and strategic problem-solving to enhance performance and user experience.
+<br/>
+
 
 
 ## Areas of Expertise
