@@ -241,6 +241,7 @@ body.light-theme {
   padding: 1rem 2.25rem;
   backdrop-filter: blur(10px);
   transition: var(--motion-duration-base) var(--motion-ease);
+  z-index: 2;
 }
 
 .nav__list {
@@ -558,7 +559,8 @@ body.light-theme {
   display: grid;
   place-items: center;
   transition: var(--motion-duration-base) var(--motion-ease);
-  z-index: var(--z-modal);
+  /* z-index: var(--z-modal); */
+  z-index: 2;
   visibility: hidden;
   opacity: 0;
 }
