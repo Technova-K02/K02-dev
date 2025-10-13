@@ -211,7 +211,8 @@ body.light-theme {
   width: 100%;
   /* height: var(--header-height); */
   background-color: var(--body-color);
-  z-index: var(--z-fixed);
+  /* z-index: var(--z-fixed); */
+  z-index: 2;
   transition: var(--motion-duration-base) var(--motion-ease);
 }
 
@@ -241,7 +242,7 @@ body.light-theme {
   padding: 1rem 2.25rem;
   backdrop-filter: blur(10px);
   transition: var(--motion-duration-base) var(--motion-ease);
-  z-index: 2;
+  z-index: 10;
 }
 
 .nav__list {
