@@ -144,90 +144,42 @@ themeButton.addEventListener("click", () => {
 });
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
+const prefersReducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const sr = ScrollReveal({
   origin: "top",
-  distance: "60px",
-  duration: 2500,
-  delay: 400,
-  reset: true,
+  distance: prefersReducedMotion ? "0px" : "24px",
+  duration: prefersReducedMotion ? 1 : 500,
+  delay: 80,
+  reset: false,
+  scale: prefersReducedMotion ? 1 : 0.98,
 });
 
 sr.reveal(`.nav__menu`, {
-  delay: 100,
-  scale: 0.1,
+  delay: 60,
+  scale: prefersReducedMotion ? 1 : 0.98,
   origin: "bottom",
-  distance: "300px",
+  distance: prefersReducedMotion ? "0px" : "24px",
 });
 
 sr.reveal(`.home__data`);
-sr.reveal(`.home__handle`, {
-  delay: 100,
-});
+sr.reveal(`.home__handle`, { delay: 60 });
 
-sr.reveal(`.home__social, .home__scroll`, {
-  delay: 100,
-  origin: "bottom",
-});
+sr.reveal(`.home__social, .home__scroll`, { delay: 60, origin: "bottom" });
 
-sr.reveal(`.about__img`, {
-  delay: 100,
-  origin: "left",
-  scale: 0.9,
-  distance: "30px",
-});
+sr.reveal(`.about__img`, { delay: 80, origin: "left" });
 
-sr.reveal(`.about__data, .about__description, .about__button-contact`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "right",
-  distance: "30px",
-});
+sr.reveal(`.about__data, .about__description, .about__button-contact`, { delay: 60, origin: "right" });
 
-sr.reveal(`.skills__content`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "bottom",
-  distance: "30px",
-});
+sr.reveal(`.skills__content`, { delay: 60, origin: "bottom" });
 
-sr.reveal(`.services__title, services__button`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "top",
-  distance: "30px",
-});
+sr.reveal(`.services__title, services__button`, { delay: 60, origin: "top" });
 
-sr.reveal(`.work__card`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "bottom",
-  distance: "30px",
-});
+sr.reveal(`.work__card`, { delay: 60, origin: "bottom" });
 
-sr.reveal(`.testimonial__container`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "bottom",
-  distance: "30px",
-});
+sr.reveal(`.testimonial__container`, { delay: 60, origin: "bottom" });
 
-sr.reveal(`.contact__info, .contact__title-info`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "left",
-  distance: "30px",
-});
+sr.reveal(`.contact__info, .contact__title-info`, { delay: 60, origin: "left" });
 
-sr.reveal(`.contact__form, .contact__title-form`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "right",
-  distance: "30px",
-});
+sr.reveal(`.contact__form, .contact__title-form`, { delay: 60, origin: "right" });
 
-sr.reveal(`.footer, footer__container`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "bottom",
-  distance: "30px",
-});
+sr.reveal(`.footer, footer__container`, { delay: 60, origin: "bottom" });
